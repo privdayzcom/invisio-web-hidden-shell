@@ -10,16 +10,16 @@
   <img src="https://img.shields.io/badge/License-MIT-lightgrey">
 </p>
 
-<p align="center">
-  <img src="https://privdayz.com/wp-content/uploads/invisio-web-shell-backdoor.jpg" alt="Invisio Phantom Logo" width="800" style="border-radius:9px;box-shadow:0 4px 32px #35355699;">
-</p>
-
 ---
 
 > **Invisio** is an ultra-stealth, undetectable, single-file PHP web shell and file manager.  
 > Designed for professionals who demand true anonymity and operational freedom, Invisio leaves zero trace and bypasses even the most advanced firewalls and antivirus systems.
 
 ---
+
+<p align="center">
+  <img src="https://privdayz.com/wp-content/uploads/invisio-web-shell-backdoor.jpg" alt="Invisio Phantom Logo" width="800" style="border-radius:9px;box-shadow:0 4px 32px #35355699;">
+</p>
 
 ## 🚩 Why Invisio?
 
